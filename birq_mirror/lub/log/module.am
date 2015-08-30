@@ -1,2 +1,0 @@
-liblub_a_SOURCES += lub/log/log.c
-
